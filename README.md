@@ -1,3 +1,5 @@
-# Hello-world
-My first repository at GitHub
-Hello!! Welcome, I'm Dahud Yusuf. I just started coding and it has been an amazing journey so far.
+# td-intro-github-basics
+
+
+## What do you understand by Git?
+Git is a free and open source software for distributed version control, used for tracking changes in any set of files, usually for coordinating work among developers collaboratively developing source code during software development.
