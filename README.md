@@ -21,5 +21,5 @@ The process of commiting a project to github repository are:
 
 5) git remote add origin "address of your GitHub repository"
 
-6) git push -u origin main/master : pushing to the main or master 
+6) git push -u origin main/master : pushing to the main or master.
 
